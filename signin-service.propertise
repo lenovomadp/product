@@ -1,0 +1,1 @@
+spring.data.mongodb.uri=mongodb://10.120.16.231:27017/portal
